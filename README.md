@@ -6,7 +6,10 @@
 # Metología
 
 
-# Herramientas
+# Herramientas de desarrollo
+
+
+# Estructura y arquitectura
 
 
 # Funcionalidades
