@@ -1,7 +1,15 @@
 # proyectoFDS
 
 # Descripción
+
+
 # Herramientas
+
+
 # Marco Teórico
-# Funcionalidaddes
+
+
+# Funcionalidades
+
+
 # Anexos
