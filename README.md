@@ -3,9 +3,6 @@
 # Descripción
 
 
-# Marco Teórico
-
-
 # Metología
 
 
