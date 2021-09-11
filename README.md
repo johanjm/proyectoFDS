@@ -3,6 +3,7 @@
 # Descripción
 
 Tinta Etérea es una plataforma creada con el propósito de fomentar la lectura y escritura en jovenes y jovenes adultos, además de crear un entorno colaborativo para escritores experimentados y quienes comienzan en este hermoso mundo.
+
 La plataforma funciona de manera que se puede crear historias colaborativas, donde tu puedes comenzar a escribir un cuento, historia o un relato, y la comunidad puede aportar con parrafos que puedes implementarlos, teniendo en cuenta que tu tambien puedes ayudar con tus aportes a las historias de la comunidad.
 
 
