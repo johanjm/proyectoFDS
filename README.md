@@ -8,41 +8,41 @@ La plataforma funciona de manera que se puede crear historias colaborativas, don
 
 
 # 2 Metología de Desarrollo
-<pre><b>2.1 Metodología de Desarrollo</b> 
+<b>2.1 Metodología de Desarrollo</b> 
 
 Las metodologías ágiles permiten adaptar la forma de trabajo a las condiciones del proyecto, consiguiendo flexibilidad e inmediatez en la respuesta para amoldar el proyecto y su desarrollo a las circunstancias específicas del entorno. El emplear una metodología ágil ha permitido dimensionar el proyecto, facilitando el trabajo porque, se obtuvo un aprendizaje rápido del equipo. 
 Scrum al ser una metodología de trabajo iterativo e incremental genera procesos divididos por tareas y cada tarea con sus actividades. Fue elegida porque, permite un trabajo organizado como equipo de trabajo, porque se observaba un entorno complejo; es más, se necesitaban resultados en un muy corto plazo.
-
+<br/>
 <b>2.1.1 Roles</b>
 
 En el desarrollo del proyecto “Tinta Etérea”, se acude a asignaciones o responsabilidades que debe cumplir cada miembro del equipo. De esta forma, el enfoque se plasma en cada sprint con la intención de cumplir los objetivos de negocio del cliente. Los roles se describen a continuación:
-
+<br/>
 Product Owner
 Este rol es representado por el Sr. Johan Quinatoa, Sr. Bryan Quisaguano, Sr. Jhosef Rea y el Sr. Antony Sanchez.
 Scrum Master
 La Ing. Ivonne Maldonado representa el rol de Scrum Master
 Development Team
 Este rol es representado por el Sr. Bryan Quisaguano, Sr. Jhosef Rea y el Sr. Antony Sanchez.
-
+<br/>
 
 <b>2.1.2 Artefactos</b>
 Gracias a la adopción de esta metodología se pudo acceder a elementos denominados artefactos; con el fin de garantizar transparencia en el equipo de desarrollo y brindar un correcto manejo de información.
-
+<br/>
 Recopilación de requerimientos
 Dentro de cualquier metodología ágil, un levantamiento de requerimientos seguido por un análisis y luego, dar paso a la recopilación de requerimientos son piezas fundamentales para realizar un software de calidad. Con Scrum, terminan formándose dos grupos: requerimientos funcionales y no funcionales. Esta recopilación de requerimientos se obtienen en base a las características que debe poseer el software y las necesidades que el usuario interesado puede tener.
-
+<br/>
 Historias de usuario.
 Después de la recopilación de requerimientos, se establecen las funcionalidades predefinidas; estas son las historias de usuario, son descritas por los miembros del grupo de trabajo. vienen a ser descripciones generales de los requisitos, necesidades donde se asigna la perspectiva del cliente como prioridad.
- 
+<br/> 
 Product Backlog
 Después de haber definido las HU se dio paso a la definición de una lista dinámica de requerimientos del producto a desarrollar. Como apoyo en las HU,  a cada ítem se le asignó la prioridad de negocio, la iteración y el estado con la finalidad de identificar las necesidades del producto.
-
+<br/>
 Sprint Backlog
 A partir del product backlog, se toma cada uno de los ítems y se las agrupa en actividades o iteraciones, con la finalidad de cumplir los objetivos planteados en un tiempo estimado por el equipo scrum. Además, se tiene en consideración que, con cada iteración completada se debe generar un entregable. De esta forma, se tiene una planificación corta del proyecto para prevenir retrasos y dudas; pues, esto último se encuentra detallado en la Tabla Planificación Sprints.
-
+<br/>
 Sprint Planning
 Se han llevado a cabo reuniones al comienzo de cada Sprint, entre miembros del equipo scrum. De esta forma, se inspecciona el Product Backlog y se seleccionan los ítems en los que va a trabajar durante el siguiente Sprint.
-</pre>
+
 
 # Herramientas de desarrollo
 
