@@ -34,12 +34,12 @@ Gracias a la adopción de esta metodología se pudo acceder a elementos denomina
 Dentro de cualquier metodología ágil, un levantamiento de requerimientos seguido por un análisis y luego, dar paso a la recopilación de requerimientos son piezas fundamentales para realizar un software de calidad. Con Scrum, terminan formándose dos grupos: requerimientos funcionales y no funcionales. Esta recopilación de requerimientos se obtienen en base a las características que debe poseer el software y las necesidades que el usuario interesado puede tener.
 <br/>
 </br>
-<b> Historias de usuario.</b> </br>
+<b> Historias de usuario</b> </br>
 Después de la recopilación de requerimientos, se establecen las funcionalidades predefinidas; estas son las historias de usuario, son descritas por los miembros del grupo de trabajo. vienen a ser descripciones generales de los requisitos, necesidades donde se asigna la perspectiva del cliente como prioridad.
 <br/> 
 </br>
 <b> Product Backlog</b> </br>
-Después de haber definido las HU se dio paso a la definición de una lista dinámica de requerimientos del producto a desarrollar. Como apoyo en las HU,  a cada ítem se le asignó la prioridad de negocio, la iteración y el estado con la finalidad de identificar las necesidades del producto.
+Después de haber definido las H.U. se dio paso a la definición de una lista dinámica de requerimientos del producto a desarrollar. Como apoyo en las H.U.  a cada ítem se le asignó la prioridad de negocio, la iteración y el estado con la finalidad de identificar las necesidades del producto.
 <br/>
 </br>
 <b> Sprint Backlog</b> </br>
