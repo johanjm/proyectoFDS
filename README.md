@@ -19,17 +19,17 @@ Scrum al ser una metodología de trabajo iterativo e incremental genera procesos
 En el desarrollo del proyecto “Tinta Etérea”, se acude a asignaciones o responsabilidades que debe cumplir cada miembro del equipo. De esta forma, el enfoque se plasma en cada sprint con la intención de cumplir los objetivos de negocio del cliente. Los roles se describen a continuación:
 <br/>
 </br>
-<b>Product Owner</b> </br>
+<b>Product Owner</b> </br></br>
 Este rol es representado por el Sr. Johan Quinatoa, Sr. Bryan Quisaguano, Sr. Jhosef Rea y el Sr. Antony Sanchez.<br/>
-<b> Scrum Master</b> </br>
+<b> Scrum Master</b> </br></br>
 La Ing. Ivonne Maldonado representa el rol de Scrum Master.<br/>
-<b> Development Team</b> </br>
+<b> Development Team</b> </br></br>
 Este rol es representado por el Sr. Bryan Quisaguano, Sr. Jhosef Rea y el Sr. Antony Sanchez.
 <br/>
 </br>
 <b>2.1.2 Artefactos</b></br>
 Gracias a la adopción de esta metodología se pudo acceder a elementos denominados artefactos; con el fin de garantizar transparencia en el equipo de desarrollo y brindar un correcto manejo de información.
-<br/>
+<br/></br>
 <b> Recopilación de requerimientos</b> </br>
 Dentro de cualquier metodología ágil, un levantamiento de requerimientos seguido por un análisis y luego, dar paso a la recopilación de requerimientos son piezas fundamentales para realizar un software de calidad. Con Scrum, terminan formándose dos grupos: requerimientos funcionales y no funcionales. Esta recopilación de requerimientos se obtienen en base a las características que debe poseer el software y las necesidades que el usuario interesado puede tener.
 <br/>
