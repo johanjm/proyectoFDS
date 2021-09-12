@@ -13,6 +13,7 @@ La plataforma funciona de manera que se puede crear historias colaborativas, don
 Las metodologías ágiles permiten adaptar la forma de trabajo a las condiciones del proyecto, consiguiendo flexibilidad e inmediatez en la respuesta para amoldar el proyecto y su desarrollo a las circunstancias específicas del entorno. El emplear una metodología ágil ha permitido dimensionar el proyecto, facilitando el trabajo porque, se obtuvo un aprendizaje rápido del equipo. 
 Scrum al ser una metodología de trabajo iterativo e incremental genera procesos divididos por tareas y cada tarea con sus actividades. Fue elegida porque, permite un trabajo organizado como equipo de trabajo, porque se observaba un entorno complejo; es más, se necesitaban resultados en un muy corto plazo.
 <br/>
+</br>
 <b>2.1.1 Roles</b>
 
 En el desarrollo del proyecto “Tinta Etérea”, se acude a asignaciones o responsabilidades que debe cumplir cada miembro del equipo. De esta forma, el enfoque se plasma en cada sprint con la intención de cumplir los objetivos de negocio del cliente. Los roles se describen a continuación:
@@ -26,7 +27,6 @@ La Ing. Ivonne Maldonado representa el rol de Scrum Master.<br/>
 Este rol es representado por el Sr. Bryan Quisaguano, Sr. Jhosef Rea y el Sr. Antony Sanchez.
 <br/>
 </br>
-
 <b>2.1.2 Artefactos</b></br>
 Gracias a la adopción de esta metodología se pudo acceder a elementos denominados artefactos; con el fin de garantizar transparencia en el equipo de desarrollo y brindar un correcto manejo de información.
 <br/>
