@@ -97,9 +97,18 @@ Se han llevado a cabo reuniones al comienzo de cada Sprint, entre miembros del e
             <p>Gracias a las funcionalidades mas sencillas que posee podremos anexar una base de datos dinamica funcional al sistema web de manera sencilla.</p>
             <img src="https://github.com/johanjm/proyectoFDS/blob/main/img/firebase.png">
         </br>
+
+
 # Estructura y arquitectura
 
-![Captura de Pantalla 2021-09-11 a la(s) 10 08 08](https://user-images.githubusercontent.com/66568293/132952384-c5bd0948-5f21-426e-bac0-12c6daa24143.png)
+
+Para la estructura y arquitectura del proyecto Tinta Etérea se implementa el siguiente diagrama donde se puede apreciar de una manera fácil y clara el Front-End tanto como la estructura del Back-End. Se debe tener en cuenta que el proyecto esta basado en React por lo tanto en HTML y JS.
+
+
+
+![Captura de Pantalla 2021-09-12 a la(s) 22 14 34](https://user-images.githubusercontent.com/66568293/133018615-b4eb07ba-25fd-47b8-865e-2a00934124b3.png)
+
+
 
 
 # Funcionalidades
