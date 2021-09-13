@@ -51,8 +51,41 @@ Se han llevado a cabo reuniones al comienzo de cada Sprint, entre miembros del e
 
 
 # Herramientas de desarrollo
-
-
+ </br>
+        <p>Para este proyecto utilizamos las herramientas: </p>
+        <br>
+            <h3>Github</h3>
+            <p>Creamos un repositorio para el control de versonamieto del proyecto.</p>
+            <img src="">
+        </br>
+        <br>
+            <h3>JavaScript</h3>
+            <p>Con esta herramienta pondremos el funcionamiento principal del sistema web.</p>
+            <p>Para ello se ocuparan las librerias:</p>
+            <img src="">
+            <ul>
+                <li>
+                    <h3>React</h3>
+                    <p>Para facilitar el manejo y creacion del codigo.</p>
+                    <img src="">
+                </li>
+                <li>
+                    <h3>Ant Desing</h3>
+                    <p>Para añadir funcionalidades.</p>
+                    <img src="">
+                </li>
+            </ul>  
+        </br>
+        <br>
+            <h3>Figma</h3>
+            <p>Con esta herramienta crearemos los primeros diseños para el sistema web.</p>
+            <img src="">
+        </br>
+        <br>
+            <h3>Fire Base</h3>
+            <p>Gracias a las funcionalidades mas sencillas que posee podremos anexar una base de datos dinamica funcional al sistema web de manera sencilla.</p>
+            <img src="">
+        </br>
 # Estructura y arquitectura
 
 ![Captura de Pantalla 2021-09-11 a la(s) 10 08 08](https://user-images.githubusercontent.com/66568293/132952384-c5bd0948-5f21-426e-bac0-12c6daa24143.png)
