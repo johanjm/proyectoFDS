@@ -1,4 +1,4 @@
-# proyectoFDS
+# Proyecto Desarrollo de Software: Tinta Eterea
 
 # Descripción
 
