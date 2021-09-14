@@ -1,4 +1,4 @@
-# Proyecto Desarrollo de Software: Tinta Eterea
+# Proyecto Desarrollo de Software: Tinta Etérea
 
 Quinatoa Johan
 
