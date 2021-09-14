@@ -65,7 +65,7 @@ Se han llevado a cabo reuniones al comienzo de cada Sprint, entre miembros del e
         <br>
             <h3>Github</h3>
             <p>Creamos un repositorio para el control de versonamieto del proyecto.</p>
-            <img src="https://github.com/johanjm/proyectoFDS/blob/main/img/github.png">
+            <img  style="height: 50px; width: 50px;" src="https://github.com/johanjm/proyectoFDS/blob/main/img/github.png">
         </br>
         <br>
             <h3>Zenhub</h3>
