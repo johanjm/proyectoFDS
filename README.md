@@ -70,13 +70,13 @@ Se han llevado a cabo reuniones al comienzo de cada Sprint, entre miembros del e
         <br>
             <h3>Zenhub</h3>
             <p>Para el manejo del progreso</p>
-            <img src="https://github.com/johanjm/proyectoFDS/blob/main/img/zenhub.png">
+            <img  style="height: 50px; width: 50px;" src="https://github.com/johanjm/proyectoFDS/blob/main/img/zenhub.png">
         </br>
         <br>
             <h3>Html y CSS</h3>
             <p>Con ellos realizaremos la estructura central del proyecto</p>
-            <img src="https://github.com/johanjm/proyectoFDS/blob/main/img/html.png">
-            <img src="https://github.com/johanjm/proyectoFDS/blob/main/img/css.png">
+            <img  style="height: 50px; width: 50px;" src="https://github.com/johanjm/proyectoFDS/blob/main/img/html.png">
+            <img  style="height: 50px; width: 50px;" src="https://github.com/johanjm/proyectoFDS/blob/main/img/css.png">
         </br>
         <br>
             <h3>JavaScript</h3>
@@ -87,19 +87,19 @@ Se han llevado a cabo reuniones al comienzo de cada Sprint, entre miembros del e
                 <li>
                     <h3>React</h3>
                     <p>Para facilitar el manejo y creacion del codigo.</p>
-                    <img src="https://github.com/johanjm/proyectoFDS/blob/main/img/react.png">
+                    <img  style="height: 50px; width: 50px;" src="https://github.com/johanjm/proyectoFDS/blob/main/img/react.png">
                 </li>
                 <li>
                     <h3>Ant Desing</h3>
                     <p>Para añadir funcionalidades.</p>
-                    <img src="https://github.com/johanjm/proyectoFDS/blob/main/img/AntDesing.jpg">
+                    <img  style="height: 50px; width: 50px;" src="https://github.com/johanjm/proyectoFDS/blob/main/img/AntDesing.jpg">
                 </li>
             </ul>  
         </br>
         <br>
             <h3>Figma</h3>
             <p>Con esta herramienta crearemos los primeros diseños para el sistema web.</p>
-            <img src="https://github.com/johanjm/proyectoFDS/blob/main/img/figma.png">
+            <img  style="height: 50px; width: 50px;" src="https://github.com/johanjm/proyectoFDS/blob/main/img/figma.png">
         </br>
         <br>
             <h3>Fire Base</h3>
