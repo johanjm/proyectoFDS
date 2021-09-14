@@ -143,5 +143,7 @@ Para el presente proyeto se ha desarrollado una lista de funcionalidades que se 
 
 
 # Anexos
-<h4>Exposicion:<h4>
-<p>https://youtu.be/oIaFiKxZkUg<p>
+<h4>Exposicion:</h4>
+<p>https://youtu.be/oIaFiKxZkUg</p>
+ <h4>Manual de usuario</h4>
+ <p>https://github.com/johanjm/proyectoFDS/blob/main/Manual%20de%20usuario.pdf</p>
