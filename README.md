@@ -122,15 +122,14 @@ Para la estructura y arquitectura del proyecto Tinta Etérea se implementa el si
 
 # Funcionalidades
 <p>Para el presente proyeto se ha desarrollado una lista de funcionalidades que se han implementado y ordenado de acuerdo a la prioridad que tendrá dentro del proyecto, las cuales son: </p>
-
+<br>
  <ul>
             <li>
                 <h4>Registrar Usuario</h4>
             </li>
             <li>
                 <h4>Iniciar Sesión</h4>
-            </li>
-
+           </li>
             <li>
                 <h4>Crear Historia</h4>
             </li>
@@ -151,7 +150,7 @@ Para la estructura y arquitectura del proyecto Tinta Etérea se implementa el si
                 <h4>Ver información del sitio.</h4>
             </li>
         </ul> 
-
+</br>
 
 # Anexos
 <h4>Exposicion:</h4>
