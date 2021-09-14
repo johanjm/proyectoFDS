@@ -121,29 +121,40 @@ Para la estructura y arquitectura del proyecto Tinta Etérea se implementa el si
 
 
 # Funcionalidades
-Para el presente proyeto se ha desarrollado una lista de funcionalidades que se han implementado y ordenado de acuerdo a la prioridad que tendrá dentro del proyecto, las cuales son: 
+<p>Para el presente proyeto se ha desarrollado una lista de funcionalidades que se han implementado y ordenado de acuerdo a la prioridad que tendrá dentro del proyecto, las cuales son: </p>
 
--Registrar Usuario
+ <ul>
+            <li>
+                <h4>Registrar Usuario</h4>
+            </li>
+            <li>
+                <h4>Iniciar Sesión</h4>
+            </li>
 
--Iniciar Sesión
-
--Crear Historia
-
--Buscar Historia
-
--Editar Historia
-
--Visualizar Historia
-
--Colaborar en Historia
-
--Actualizar información
-
--Ver información del sitio.
+            <li>
+                <h4>Crear Historia</h4>
+            </li>
+            <li>
+                <h4>Buscar Historia</h4>
+            </li>
+            <li>
+                <h4>Editar Historia</h4>
+            </li><li>
+                <h4>Visualizar Historia</h4>
+            </li>
+            <li>
+                <h4>Colaborar en Historia</h4>
+            </li>
+            <li>
+                <h4>Actualizar información</h4>
+            </li><li>
+                <h4>Ver información del sitio.</h4>
+            </li>
+        </ul> 
 
 
 # Anexos
 <h4>Exposicion:</h4>
-<p>https://youtu.be/oIaFiKxZkUg</p>
+<p>https://youtu.be/adGLu0-9Akw</p>
  <h4>Manual de usuario</h4>
  <p>https://github.com/johanjm/proyectoFDS/blob/main/Manual%20de%20usuario.pdf</p>
