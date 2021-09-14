@@ -31,7 +31,7 @@ En el desarrollo del proyecto “Tinta Etérea”, se acude a asignaciones o res
 <b>Product Owner</b> </br>
 Este rol es representado por el Sr. Johan Quinatoa, Sr. Bryan Quisaguano, Sr. Jhosef Rea y el Sr. Antony Sanchez.<br/></br>
 <b> Scrum Master</b> </br>
-La Ing. Ivonne Maldonado representa el rol de Scrum Master.<br/></br>
+El Ing. Juan Zaldumbide representa el rol de Scrum Master.<br/></br>
 <b> Development Team</b> </br>
 Este rol es representado por el Sr. Bryan Quisaguano, Sr. Jhosef Rea y el Sr. Antony Sanchez.
 <br/>
