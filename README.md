@@ -1,5 +1,11 @@
 # Proyecto Desarrollo de Software: Tinta Eterea
 
+Quinatoa Johan
+Quisaguano Bryan
+Rea Jhosef
+Sanchez Antony
+
+
 # Descripción
 
 Tinta Etérea es una plataforma creada con el propósito de fomentar la lectura y escritura en jovenes y jovenes adultos, además de crear un entorno colaborativo para escritores experimentados y quienes comienzan en este hermoso mundo.
