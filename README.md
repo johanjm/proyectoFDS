@@ -1,8 +1,11 @@
 # Proyecto Desarrollo de Software: Tinta Eterea
 
 Quinatoa Johan
+
 Quisaguano Bryan
+
 Rea Jhosef
+
 Sanchez Antony
 
 
