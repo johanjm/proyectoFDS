@@ -157,3 +157,6 @@ Para la estructura y arquitectura del proyecto Tinta Etérea se implementa el si
 <p>https://youtu.be/adGLu0-9Akw</p>
  <h4>Manual de usuario</h4>
  <p>https://github.com/johanjm/proyectoFDS/blob/main/Manual%20de%20usuario.pdf</p>
+ <h4>Manual técnico</h4>
+ <p>https://github.com/johanjm/proyectoFDS/blob/main/Documentaci%C3%B3n/Manual_T%C3%A9cnico_Tinta_Et%C3%A9rea.pdf</p>
+ 
