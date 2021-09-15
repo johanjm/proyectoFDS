@@ -155,6 +155,8 @@ Para la estructura y arquitectura del proyecto Tinta Etérea se implementa el si
 # Anexos
 <h4>Exposicion:</h4>
 <p>https://youtu.be/adGLu0-9Akw</p>
+ <h4>Informe Técnico</h4>
+ <p>https://github.com/johanjm/proyectoFDS/blob/main/InformeT%C3%A9cnico-Tinta-et%C3%A9rea.pdf </p>
  <h4>Manual de usuario</h4>
  <p>https://github.com/johanjm/proyectoFDS/blob/main/Manual%20de%20usuario.pdf</p>
  <h4>Manual técnico</h4>
